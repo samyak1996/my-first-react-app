@@ -1,0 +1,31 @@
+margin {
+  height: 0;
+}
+header {
+  background-color: yellow;
+  height: 50px;
+  font-family: cursive;
+}
+
+main {
+  height: 100vh;
+}
+
+footer {
+  background-color: grey;
+  height: 50px;
+  font-size: large;
+  font-family: serif;
+}
+
+ul {
+  background-color: aquamarine;
+}
+
+.first {
+  background-color: green;
+}
+
+.second {
+  background-color: orange;
+}
